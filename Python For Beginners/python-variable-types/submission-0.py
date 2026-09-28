@@ -1,0 +1,5 @@
+print(type(25))
+print(type(89.7))
+print(type(True))
+print(type("Hello"))
+print(type([1, 2, 3]))
